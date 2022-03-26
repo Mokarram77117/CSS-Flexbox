@@ -1,1 +1,68 @@
-# CSS-Flexbox
+.container{
+    height: 525.875px;
+    width: 920px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.upper{
+height: 200px;
+width: 920px;
+
+
+}
+#upper-left{
+    
+    height: 194px;
+    width: 460px;
+    
+    position: relative;
+    
+
+}
+#h1-size{
+    font-size: 32px;
+    margin: 21px 0 21px 0;
+   color: #502050;
+    width: 280px;
+    height: 114px;
+    font-weight: 700;
+}
+.p-size{
+    margin: 15px 0 12px 0;
+   font-size: 15px;
+   font-weight: 600;
+   color: #9AA3CA;
+   height: 70px;
+   
+    
+}
+#upper-right{
+    height: 200px;
+    width: 460px;
+    
+    position: relative;
+    left: 460px;
+    bottom: 210px;
+}
+.m{
+    margin-left: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.n{
+    margin-left: 80px;
+    padding-bottom: 20px;
+}
+.o{
+    margin-left: 110px;
+    
+}
+.lower{
+    height: 325.875px;
+    width: 920px;
+    
+}
+
